@@ -1,0 +1,35 @@
+.nav {
+	list-style: none;
+	background: #FFDF00;
+	display: flex;
+	justify-content: flex-end;
+	padding: 2%;
+}
+
+/*.nav li {
+	padding-right: 5%;
+}
+
+.nav li a {
+	text-decoration: none;
+	color: black;
+}
+
+.nav li a:hover {
+	text-decoration: underline;
+}*/
+
+
+.normal {
+	padding-right: 5%;
+	text-decoration: none;
+	color: black;
+}
+
+.normal:hover {
+	text-decoration: underline;
+}
+
+.selected {
+	text-decoration: underline;	
+}
